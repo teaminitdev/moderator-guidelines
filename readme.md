@@ -18,7 +18,7 @@ While many of these things are common sense, they should still be incorporated i
 ## These are applicable to verified/partnered servers:
 
 - ### **Discriminatory Jokes and Language related to ones RACE, AGE, GENDER, DISABILITY isn't allowed.**
-- ### ** Explicitly Pornographic Contents / Nudity contents isn't allowed anywhere**
+- #### *Explicitly Pornographic Contents / Nudity contents isn't allowed anywhere*
 - ### **Any Discord ToS / Guidelines Violation should be reported to Discord Trust and Safety**
 
 ## Additional
