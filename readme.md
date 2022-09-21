@@ -3,23 +3,23 @@ While many of these things are common sense, they should still be incorporated i
 
 ## The following key points aren't allowed:
 
-- ### **Doxxing/Harassment**: 
+- #### **Doxxing/Harassment**: 
       Threats and encouraging self harm aren't allowed.
-- ### **Spamming/Phishing/Trying to steal other's account**
-- ### **Child Porn/ Revenge Porn or Animal Cruelty**
-- ### **NSFW should be limited to a NSFW marked channels**
-- ### **Sharing Pirated Content.**
+- #### **Spamming/Phishing/Trying to steal other's account**
+- #### **Child Porn/ Revenge Porn or Animal Cruelty**
+- #### **NSFW should be limited to a NSFW marked channels**
+- #### **Sharing Pirated Content.**
 
 ## These are additional rules applicable to all Servers according to Discord ToS:
 
-- ### **Must be 13 years or older.**
-- ### **Distribution of hacked/modded application aren't allowed.**
+- #### **Must be 13 years or older.**
+- #### **Distribution of hacked/modded application aren't allowed.**
 
 ## These are applicable to verified/partnered servers:
 
-- ### **Discriminatory Jokes and Language related to ones RACE, AGE, GENDER, DISABILITY isn't allowed.**
-- #### *Explicitly Pornographic Contents / Nudity contents isn't allowed anywhere*
-- ### **Any Discord ToS / Guidelines Violation should be reported to Discord Trust and Safety**
+- #### **Discriminatory Jokes and Language related to ones RACE, AGE, GENDER, DISABILITY isn't allowed.**
+- #### **Explicitly Pornographic Contents / Nudity contents isn't allowed anywhere**
+- #### **Any Discord ToS / Guidelines Violation should be reported to Discord Trust and Safety**
 
 ## Additional
 - There are some terms which a moderator should be abide with - [Coming Soon]
